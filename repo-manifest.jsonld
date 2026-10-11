@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-smart-selects/commit/780c1dfc2bb2868f7ad436345c480fa28e2db2bf",
       "git:hexsha": "780c1dfc2bb2868f7ad436345c480fa28e2db2bf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.7.2"
     },
     {
